@@ -1,4 +1,7 @@
 It is test File 1
 It is the 2nd line of the file
+<<<<<<< HEAD
 Add one line by FM_1
+=======
 Add one line by FM2
+>>>>>>> gitlab_test/master
